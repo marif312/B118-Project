@@ -1,0 +1,14 @@
+body{
+background-color: rgb(233, 197, 205);
+color: rgb(15, 50, 50);
+font-family: cursive;
+font-size: 30px;
+font-weight:bold;
+border: 5px dotted red;
+}
+
+p{
+    background-color: blue;
+    font-size: smaller;
+    color: brown;
+}
